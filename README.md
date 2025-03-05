@@ -10,7 +10,7 @@ This task involves analyzing and visualizing sentiment patterns in social media 
 
 1. Data Collection and Exploration:
    - Load the social media dataset (e.g., tweets.csv) using Pandas.
-   - Inspect the dataset’s structure and content using .info(), .describe(), and .head().
+   - Inspect the dataset’s structure and content using `.info()`, `.describe()`, and `.head()`.
    - Check for missing or irrelevant data and clean the dataset accordingly.
 
 2. Text Preprocessing:
@@ -19,7 +19,7 @@ This task involves analyzing and visualizing sentiment patterns in social media 
    - Apply stemming or lemmatization to normalize the text.
 
 3. Sentiment Analysis:
-   - Use pre-trained sentiment analysis libraries like TextBlob, VADER, or NLTK to assign sentiment scores.
+   - Use pre-trained sentiment analysis libraries like `TextBlob`, `VADER`, or `NLTK` to assign sentiment scores.
    - Alternatively, apply machine learning models for sentiment classification.
    - Categorize sentiments into positive, negative, and neutral based on sentiment scores.
 
